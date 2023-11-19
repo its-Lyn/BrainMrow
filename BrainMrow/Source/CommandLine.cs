@@ -1,4 +1,3 @@
-using System.Net;
 using CommandLine;
 
 namespace BrainMrow.Source;

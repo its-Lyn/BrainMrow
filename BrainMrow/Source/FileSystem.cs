@@ -1,6 +1,6 @@
 namespace BrainMrow.Source;
 
-public class FileSystem
+public static class FileSystem
 {
     public static string ReadAllText(string path)
     {
