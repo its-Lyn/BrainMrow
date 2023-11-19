@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "S4wZF8JEQ9OeItvSimTG7UkxztOHo5kS5xqCk7876Dsqs2E9bVKLgYHtA6xGKOwXjY0WyxCjizTU/Zix2eZPBA==",
+  "dgSpecHash": "nYlCChS13QY+nJak1614ui+l+L/rxqCJT8DSZ02cKVlFtbjhduNYaj/FUl0Wbql7XMQLPblvG04jeZU0tUIIBA==",
   "success": true,
   "projectFilePath": "/home/lyn/Code/BrainMrow/BrainMrow/BrainMrow.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/lyn/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,17 @@
+/home/lyn/Code/BrainMrow/BrainMrow/bin/Debug/net7.0/BrainMrow
+/home/lyn/Code/BrainMrow/BrainMrow/bin/Debug/net7.0/BrainMrow.deps.json
+/home/lyn/Code/BrainMrow/BrainMrow/bin/Debug/net7.0/BrainMrow.runtimeconfig.json
+/home/lyn/Code/BrainMrow/BrainMrow/bin/Debug/net7.0/BrainMrow.dll
+/home/lyn/Code/BrainMrow/BrainMrow/bin/Debug/net7.0/BrainMrow.pdb
+/home/lyn/Code/BrainMrow/BrainMrow/bin/Debug/net7.0/CommandLine.dll
+/home/lyn/Code/BrainMrow/BrainMrow/obj/Debug/net7.0/BrainMrow.csproj.AssemblyReference.cache
+/home/lyn/Code/BrainMrow/BrainMrow/obj/Debug/net7.0/BrainMrow.GeneratedMSBuildEditorConfig.editorconfig
+/home/lyn/Code/BrainMrow/BrainMrow/obj/Debug/net7.0/BrainMrow.AssemblyInfoInputs.cache
+/home/lyn/Code/BrainMrow/BrainMrow/obj/Debug/net7.0/BrainMrow.AssemblyInfo.cs
+/home/lyn/Code/BrainMrow/BrainMrow/obj/Debug/net7.0/BrainMrow.csproj.CoreCompileInputs.cache
+/home/lyn/Code/BrainMrow/BrainMrow/obj/Debug/net7.0/BrainMrow.csproj.CopyComplete
+/home/lyn/Code/BrainMrow/BrainMrow/obj/Debug/net7.0/BrainMrow.dll
+/home/lyn/Code/BrainMrow/BrainMrow/obj/Debug/net7.0/refint/BrainMrow.dll
+/home/lyn/Code/BrainMrow/BrainMrow/obj/Debug/net7.0/BrainMrow.pdb
+/home/lyn/Code/BrainMrow/BrainMrow/obj/Debug/net7.0/BrainMrow.genruntimeconfig.cache
+/home/lyn/Code/BrainMrow/BrainMrow/obj/Debug/net7.0/ref/BrainMrow.dll
