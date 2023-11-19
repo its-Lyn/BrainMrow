@@ -14,7 +14,7 @@ public static class BrainMrow
         cli.Parse(args);
         
         if (string.IsNullOrEmpty(Path))
-            Environment.Exit(-1);
+            Environment.Exit(0);
 
         string content = FileSystem.ReadAllText(Path);
         string[] keywords = content.Split();
