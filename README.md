@@ -38,6 +38,6 @@ purR ->  ]
 ```
 
 # Todo
-- [ ] Add Brainfuck to BrainMrow converter
+- [x] Add Brainfuck to BrainMrow converter
 - [ ] Add input
 - [ ] Check for unclosed loops
